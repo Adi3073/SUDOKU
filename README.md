@@ -1,4 +1,4 @@
-#SUDOKU
+# SUDOKU
 
 This is the project structure of my Sudoku application:
 
@@ -69,6 +69,7 @@ This is a web-based Sudoku solver application implemented in Java using Servlets
 
 ## Project Structure
 
+```
 ```
 SUDOKU-adit/
 ├── .classpath
